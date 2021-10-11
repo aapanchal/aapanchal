@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/bd03a49055d35313c271621f10d0e0e7109e77b8/github-contribution-grid-snake.svg" alt="aapanchal" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aapanchal&show_icons=true&locale=en" alt="aapanchal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aapanchal&show_icons=true&locale=en" alt="aapanchal" /></p>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aapanchal&" alt="aapanchal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aapanchal&" alt="aapanchal" /></p>
